@@ -1,0 +1,26 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "PANTALONES",
+    "inventarioProducto": 3,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "CAMISA",
+    "inventarioProducto": 4,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "MEDIAS",
+    "inventarioProducto": 13,
+    "precioProducto": 45000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "CHAQUETAS",
+    "inventarioProducto": 7,
+    "precioProducto": 45000
+  }
+]
